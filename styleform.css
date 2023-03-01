@@ -27,6 +27,15 @@
     border-radius: 4px;
 }
 
+.input-submit {
+    padding: 5px;
+    margin: 2px;
+    border: 1px solid #8a8888;
+    border-radius: 4px;
+    background-color: green;
+}    
+    
+
 h1 {
     text-align: center;
 }
